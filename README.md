@@ -16,9 +16,6 @@ Welcome to Shopnetic, a modern, feature-rich e-commerce mobile application built
     npx expo start
    ```
 
-## Overview
-# A modern, feature-rich e-commerce mobile application built with Expo and React Native. This app provides a seamless shopping experience with intuitive navigation, product discovery, detailed product views, cart management, and checkout functionality.
-
 ## Features
 
 Elegant UI/UX - Clean design with intuitive navigation
