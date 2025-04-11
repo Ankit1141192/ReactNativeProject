@@ -1,6 +1,6 @@
-# Welcome to our Expo app 👋
+# 🛍️ Shopnetic – A Modern E-Commerce App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Welcome to Shopnetic, a modern, feature-rich e-commerce mobile application built with Expo and React Native. This app provides a seamless shopping experience with intuitive navigation, product discovery, detailed product views, cart management, and smooth checkout functionality.
 
 ## Get started
 
@@ -27,11 +27,15 @@ Product Catalog - Browse products with filtering and sorting options
 
 Search Functionality - Find products quickly
 
+User Profiles – Manage account information
+
 Shopping Cart - Add, remove, and update quantities
 
 Checkout Process - Smooth, multi-step checkout experience
 
-User Profiles - Manage account information
+Camera Integration – Built with Expo Camera to enhance interactivity
+
+Authentication – Firebase used for secure login/signup
 ## Screenshots
 
 ![WhatsApp Image 2025-04-09 at 21 34 24](https://github.com/user-attachments/assets/9f155c26-80d7-4550-8681-6878092173d1)
@@ -41,6 +45,9 @@ User Profiles - Manage account information
 ![WhatsApp Image 2025-04-09 at 21 34 25 (1)](https://github.com/user-attachments/assets/763a5afd-682d-4433-9e4f-419dcc5d3360)
 ![WhatsApp Image 2025-04-09 at 21 34 26](https://github.com/user-attachments/assets/45a70406-788f-4a86-88c2-a2580e4b0dc1)
 ![WhatsApp Image 2025-04-09 at 21 34 26 (1)](https://github.com/user-attachments/assets/b7171d21-2879-4737-9ba7-b2c43a8f18ee)
+![WhatsApp Image 2025-04-11 at 20 20 31 (1)](https://github.com/user-attachments/assets/07e320d0-6557-4ad6-9e34-d202d2abd5fb)
+![WhatsApp Image 2025-04-11 at 20 20 31](https://github.com/user-attachments/assets/17397b32-ea70-42f7-8145-4fe00f9ce0b3)
+
 
 ## Technologies
 
@@ -54,7 +61,9 @@ Redux Toolkit - State management
 
 React Native Paper - Material Design components
 
-Axios - HTTP client for API requests
+Firebase – Authentication and backend
+
+Expo Camera – For camera-based features
 
 
 ## Made with ❤️ using Expo
