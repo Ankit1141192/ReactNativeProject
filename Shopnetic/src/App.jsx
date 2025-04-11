@@ -10,6 +10,8 @@ import HomeScreen from "./Screen/HomeScreen.jsx"
 import SearchScreen from "./Screen/SearchScreen.jsx"
 import ProductDetails from './Screen/ProductDetails.jsx'
 import UserScreen from './Screen/UserScreen.jsx'
+import LoginScreen from './Screen/LoginScreen.jsx';
+import SignupScreen from './Screen/SignupScreen.jsx';
 
 
 const Stack = createStackNavigator();
@@ -71,7 +73,8 @@ const App = () => (
       <Drawer.Screen name="Shopnetic" component={MainStack} />
       <Drawer.Screen name ="Profile" component ={UserScreen}/>
       <Drawer.Screen name="ProductDetails" component={ProductDetails} />
-      
+      <Drawer.Screen name="login" component={LoginScreen} />
+      <Drawer.Screen name="signup" component={SignupScreen} />
     </Drawer.Navigator>
   </NavigationContainer>
 );
